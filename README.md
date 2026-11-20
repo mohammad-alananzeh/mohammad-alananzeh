@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mohammad Alananzeh
 
-<!--
-**mohammad-alananzeh/mohammad-alananzeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical engineer working on embedded systems and power electronics.
 
-Here are some ideas to get you started:
+### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**TDEM ground-imaging instrument**: a time-domain electromagnetic system, from circuit design and multi-simulator verification (LTspice, ngspice, Xyce) to safety-margin analysis, Monte Carlo tolerance studies and STM32 firmware. The project is private for now; a write-up will follow once the hardware is validated.
+
+### Tools
+
+- Circuit simulation: LTspice, ngspice, Xyce
+- PCB design: KiCad
+- Electromagnetics: FEMM, FastHenry2, Elmer
+- Embedded: STM32, ESP32-S3, C
+- Python for analysis and automation
